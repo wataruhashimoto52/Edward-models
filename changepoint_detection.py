@@ -1,4 +1,11 @@
 # coding: utf-8
+
+"""
+Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+chapter1: changepoint detection
+
+ref: https://discourse.edwardlib.org/t/bayesian-hacker-chapter1-introduction-imp-use-edward/299  
+"""
 import numpy as np 
 import scipy.stats as stats 
 import matplotlib.pyplot as plt 
