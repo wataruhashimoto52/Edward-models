@@ -6,6 +6,8 @@
 ## Contents
 * `changepoint_detection.py` - detect the change date of the number of received mail
 
+* `bayesian_logistic_regression.py`
+
 ## Author 
 
 [wataruhashimoto52] https://github.com/wataruhashimoto52 
