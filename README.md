@@ -6,7 +6,11 @@
 ## Contents
 * `changepoint_detection.py` - detect the change date of the number of received mail
 
+* `bayesian_linear_regression.py`  
+
 * `bayesian_logistic_regression.py`
+
+* `rstan2edward` - 「StanとRでベイズ統計モデリング」の幾つかのモデルをEdwardで実装します．
 
 ## Author 
 
