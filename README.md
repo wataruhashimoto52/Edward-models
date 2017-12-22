@@ -10,10 +10,15 @@
 
 * `bayesian_logistic_regression.py`
 
+* `polynomial_regression.py`
+
+* `bayesian_nn.py` - Bayesian Neural Network
+
+* `gp.py` - Gaussian Process Regression
+
 * `rstan2edward` - 「StanとRでベイズ統計モデリング」の幾つかのモデルをEdwardで実装します．
 
 ## Author 
-
 [wataruhashimoto52] https://github.com/wataruhashimoto52 
 
 ## Contact
