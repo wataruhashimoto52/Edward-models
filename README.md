@@ -1,4 +1,4 @@
-# ed_model
+# Edward Models
 
 ## Description
 (Deep) Bayesian Modelling using Edward & Tensorflow.
@@ -12,9 +12,11 @@
 
 * `polynomial_regression.py`
 
-* `bayesian_nn.py` - Bayesian Neural Network
+* `bayesian_neural_network.ipynb` - Bayesian Neural Network
 
 * `gp.py` - Gaussian Process Regression
+
+* `multi_normal.py` - Variational inference and sampling of Multivariate Normal distribution
 
 * `rstan2edward` - 「StanとRでベイズ統計モデリング」の幾つかのモデルをEdwardで実装します．
 
