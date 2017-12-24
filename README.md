@@ -14,7 +14,7 @@
 
 * `bayesian_neural_network.ipynb` - Bayesian Neural Network
 
-* `gp.py` - Gaussian Process Regression
+* `gp.ipynb` - Gaussian Process Regression
 
 * `multi_normal.py` - Variational inference and sampling of Multivariate Normal distribution
 
