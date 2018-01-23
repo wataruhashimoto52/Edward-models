@@ -1,7 +1,7 @@
 # Edward Models
 
 ## Description
-(Deep) Bayesian Modelling using Edward & Tensorflow.
+(Deep) Bayesian Modelling using Edward (http://edwardlib.org/) & Tensorflow.
 
 ## Contents
 * `changepoint_detection.py` - detect the change date of the number of received mail
@@ -18,7 +18,7 @@
 
 * `multi_normal.py` - Variational inference and sampling of Multivariate Normal distribution
 
-* `rstan2edward` - 「StanとRでベイズ統計モデリング」の幾つかのモデルをEdwardで実装します．
+* `rstan2edward` - 「StanとRでベイズ統計モデリング」の幾つかのモデルをEdwardで実装します(not complete)．
 
 ## Author 
 [wataruhashimoto52] https://github.com/wataruhashimoto52 
