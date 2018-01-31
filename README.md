@@ -16,7 +16,7 @@
 
 * `gp.ipynb` - Gaussian Process Regression
 
-* `multi_normal.py` - Variational inference and sampling of Multivariate Normal distribution
+* `multi_normal.py` - Variational inference and sampling from Multivariate Normal distribution
 
 ## Author 
 [wataruhashimoto52] https://github.com/wataruhashimoto52 
