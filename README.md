@@ -18,8 +18,6 @@
 
 * `multi_normal.py` - Variational inference and sampling of Multivariate Normal distribution
 
-* `rstan2edward` - 「StanとRでベイズ統計モデリング」の幾つかのモデルをEdwardで実装します(not complete)．
-
 ## Author 
 [wataruhashimoto52] https://github.com/wataruhashimoto52 
 
